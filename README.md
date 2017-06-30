@@ -1,2 +1,2 @@
 # simplevideo-player
-a simple using opencv video-player 
+a simple video-player using opencv
